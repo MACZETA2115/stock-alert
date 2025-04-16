@@ -1,2 +1,5 @@
 yfinance
+smtplib
+requests
 pandas
+plotly
